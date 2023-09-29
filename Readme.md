@@ -1,19 +1,19 @@
-[![GitHub issues](https://img.shields.io/github/issues/Anup-maurya/Hacktoberfest-2022?logo=github)](https://github.com/Anup-maurya/Hacktoberfest-2022/issues)
-[![GitHub stars](https://img.shields.io/github/stars/Anup-maurya/Hacktoberfest-2022?style=social)](https://github.com/Anup-maurya/Hacktoberfest-2022/stargazers)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAnup-maurya%2FHacktoberfest-2021&count_bg=%23DD8524&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://github.com/aritraroy24/HACKTOBERFEST2021_PATTERN) 
-[![GitHub forks](https://img.shields.io/github/forks/Anup-maurya/Hacktoberfest-2021?style=social&logo=git)]
 ![Author](https://img.shields.io/badge/Owner-Anup-maurya)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Maintained](https://img.shields.io/maintenance/yes/2022) </br>
+![Maintained](https://img.shields.io/maintenance/yes/2023) </br>
 
 
 <h2 align="center">
-  😎😎😎Hacktoberfest-2022 contribution Repo😎😎😎
+  😎😎😎Hacktoberfest 2023 Contribution Repo😎😎😎
 </h2>
 </br>
 
- <img src="https://github.com/Anup-maurya/Hacktober_Birthday/blob/main/HACKTOBERFEST.png" />
-<b>Welcome to Hacktoberfest 2022</b></br>
+ <img src="" />
+
+# Welcome to Hacktoberfest 2023
+
+
+</br>
  Open source is changing the world - one pull request at a time.
 🚀 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
 </br>
@@ -27,7 +27,7 @@
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
-### 1. 👇🏻Register yourself for Hacktoberfest 2022
+### 1. 👇🏻Register yourself for Hacktoberfest 2023
 ###### Link to register: [hacktoberfest.com](https://hacktoberfest.digitalocean.com/)
 
 
@@ -61,11 +61,12 @@
 ### 5. 👇🏻Create Pull Request
 ###### At this point, you are ready to make a pull request to the original repository.
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
-## 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+
+### 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
-<a href="https://hacktoberfest.com" target="blank">hacktoberfest.dom</a>
+<a href="https://hacktoberfest.com" target="blank" >hacktoberfest.com</a>
 
 </br>
 
-# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Hacktoberfest-2022/blob/main/Contributors.md) 🙏😎
+# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Hacktoberfest-2023/blob/main/Contributors.md) 🙏😎
