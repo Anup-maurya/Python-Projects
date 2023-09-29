@@ -3,7 +3,7 @@
 ![Maintained](https://img.shields.io/maintenance/yes/2023) </br>
 
 
-<h2 align="center">
+<h2 align="left">
   😎😎😎Hacktoberfest 2023 Contribution Repo😎😎😎
 </h2>
 </br>
@@ -22,13 +22,11 @@
 
 ## 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create simple python project and add to this repo. Make as your PR count🎯 </br>
 
-
-<hr>
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
 
 ## Instructions: 🙅🏼 🙅🏼‍♂️
 ### 1. 👇🏻Register yourself for Hacktoberfest 2023
-###### Link to register: [hacktoberfest.com](https://hacktoberfest.digitalocean.com/)
+###### Link to register: [hacktoberfest.com](https://hacktoberfest.com/)
 
 
 ### 2. 👇🏻Star and Fork this Repository
@@ -45,17 +43,17 @@
 
 
 ### 4. 👇🏻Add your code
-####
 ###### ⚡  Make Changes Locally. 
-###### ⚡  Once you have added new files or folders to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made : `git add -A ` or ` git add . `
+###### ⚡  Once you have added new files or folders to the project, you can add them to your local repository, which you can do with the git add command. Let’s add the -A flag to add all changes that we have made : 
+`git add -A ` or ` git add . `
 ###### ⚡  Next, we’ll want to record the changes that we made to the repository with the git commit command.
 ###### ⚡  The commit message is an important aspect of your code contribution; It helps the other contributors fully understand the change you have made, why you made it, and how significant it is. Additionally, commit messages provide a historical record of the changes for the project at large, helping future contributors along the way. Thus, you must ensure that you write a meaningful commit message. If in a confusion, refer to the good contribution guidelines included in the `CONTRIBUTING.md `.
 ###### ⚡  Now, you can record that with the -m flag and the message in quotes:
 ###### *`Example:`*
-###### ` git commit -m "Updated Readme.md" `
+ ` git commit -m "Updated Readme.md" `
 ###### ⚡  At this point you can use the git push command to push the changes to the current branch of your forked repository:
 ###### *` Example:`*
-###### ` git push `
+ ` git push `
 
 
 ### 5. 👇🏻Create Pull Request
@@ -69,4 +67,8 @@
 
 </br>
 
-# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Hacktoberfest-2023/blob/main/Contributors.md) 🙏😎
+# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Python-Projects/blob/main/Contributors.md) 🙏😎
+
+<p align="left"><a href="https://github.com/Anup-maurya/Python-Projects/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Anup-maurya/Python-Projects" />
+</a></p>
