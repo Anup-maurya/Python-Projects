@@ -1,16 +1,38 @@
-![Author](https://img.shields.io/badge/Owner-Anup-maurya)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
-![Maintained](https://img.shields.io/maintenance/yes/2023) </br>
+<div align="center">
+  
+<img src="https://img.shields.io/badge/hacktoberfest-2023-blueviolet" alt="Hacktober Badge"/>
+ <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
+ <a href="https://github.com/Anup-maurya" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+
+<a href="https://github.com/keshavsingh4522/hacktoberfest2021/pulls"><img src="https://img.shields.io/github/issues-pr/Anup-maurya/Python-Projects" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Anup-maurya/Python-Projects/graphs/contributors">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Anup-maurya/Python-Projects   ?color=2b9348">
+</a>
+<a href="https://github.com/Anup-maurya/Python-Projects/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Anup-maurya/Python-Projects?color=2b9348" alt="License Badge"/></a>
+
+</div>
+
+<h1 align="center">Welcome to Hacktoberfest 2023 🎉</h1>
+
+## Special Note For Everyone
+
+```
+always make more then 4 pull request
+lets you have made only 4 pull request to different projects
+but one project is excluded from hackoctoberfest event then your pull request will not be count and 
+then you have remains 3 valid pull request if these projects is not excluded.
+if you fail to make 4 pull request then you cant get swags or t-shirts.
+
+i will recommend you make pull request to your own repo which is very very saffest side for you..
+keep in mind that repo has hacktoberfest topic..
+```
 
 
-<h2 align="left">
-  😎😎😎Hacktoberfest 2023 Contribution Repo😎😎😎
-</h2>
-</br>
+# 📌 Hacktoberfest 2023 Contribution Repo
 
 ![HacktoberFest](https://github.com/Anup-maurya/Python-Projects/assets/62827230/682c0f3c-d1ef-41cc-966d-0c881583734c)
 
-# Welcome to Hacktoberfest 2023
+
 
 
 </br>
@@ -20,7 +42,7 @@
 
 
 
-## 🎯 If you are a beginner, and looking for your first contribution, we are here to help. Just create simple python project and add to this repo. Make as your PR count🎯 </br>
+## If you are a beginner, and looking for your first contribution, we are here to help. Just create simple python project and add to this repo. Make as your PR count. </br>
 
 ### 💻 Our repo is open to beginner contributors who want to participate and complete successful PR Request. 
 
@@ -60,14 +82,14 @@
 ###### At this point, you are ready to make a pull request to the original repository.
 ###### Now navigate to your forked repository, and press the “New pull request” button on your left-hand side of the page.
 
-### 👑 👑 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
+## 📌 Hurray!!! You just got closer to completing your hacktoberfest challenge. 😃
 
 🎩 Check your Hacktoberfest Contribution status at: 🙅🏼‍♂️
 <a href="https://hacktoberfest.com" target="blank" >hacktoberfest.com</a>
 
 </br>
 
-# 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Python-Projects/blob/main/Contributors.md) 🙏😎
+### 😎🙏 Thanks to Our Awesome [Contributors](https://github.com/Anup-maurya/Python-Projects/blob/main/Contributors.md) 🙏😎
 
 <p align="left"><a href="https://github.com/Anup-maurya/Python-Projects/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=Anup-maurya/Python-Projects" />
